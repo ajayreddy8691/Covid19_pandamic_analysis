@@ -316,7 +316,6 @@ jupyter notebook
 | `Exploratory_analysis_fancy_plot.ipynb` | Publication-ready heatmap visualization for repository README | `covid_tiles.png` (1600×800, 200 DPI) |
 
 ---
-
 ## Author
 
 **Ajay Kumar Reddy Y**
